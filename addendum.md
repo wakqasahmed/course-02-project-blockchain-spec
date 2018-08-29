@@ -27,13 +27,13 @@ Changing the compiler version in Solidity.
 Go to **remix.ethereum.org**
 
 Go to **Settings **tab
-[Remix Settings Tab](./remix_settings_tab.png)
+![Remix Settings Tab](./remix_settings_tab.png)
 
 In Solidity Version, click on** Select new compiler version**
-[Remix Solidity Version](./remix_solidity_version.png)
+![Remix Solidity Version](./remix_solidity_version.png)
 
 Select the following version **(0.4.17+commit.bdeb9e52)**
-[Remix Solidity Version Selection](./remix_solidity_version_selection.png)
+![Remix Solidity Version Selection](./remix_solidity_version_selection.png)
 
 Before compiling the program, make sure the correct compiler version is selected!
 

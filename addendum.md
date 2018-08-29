@@ -1,4 +1,4 @@
-#Addendum: Solidity Version
+# Addendum: Solidity Version
 
 The purpose of the addendum is to clarify the version of Solidity to use for your projects in Course 2 and Course 3.
 
@@ -8,7 +8,7 @@ So don't panic if you see some errors due to variations in version number. Follo
 
 But then Remix IDE’s Solidity compiler is automatically set to the latest Solidity version. When you are working on the Remix for the Course 2 and Course 3, compiler version can be up to 0.4.21 MAX, not later than that. The instructions to change the compiler version in Remix are given below. Follow the instructions there to set the Solidity compiler version in Remix IDE. We will keep the compiler version at **0.4.17** to prevent any problems that may arise because of compiler issues.
 
-Please refer the documentation for Solidity version 0.4.17 at [http://solidity.readthedocs.io/en/v0.4.17/](http://solidity.readthedocs.io/en/v0.4.17/)​ when developing your code.
+Please refer the documentation for Solidity version 0.4.17 at [http://solidity.readthedocs.io/en/v0.4.17/](http://solidity.readthedocs.io/en/v0.4.17/) when developing your code.
 
 Finally, please understand that you not only learned to code in Solidity but also learned how to adapt to the changes in the versions. The latter is an essential skill when working with any development, hardware or software.
 
@@ -27,13 +27,13 @@ Changing the compiler version in Solidity.
 Go to **remix.ethereum.org**
 
 Go to **Settings **tab
-[Remix Settings Tab](url://here)
+[Remix Settings Tab](./remix_settings_tab.png)
 
 In Solidity Version, click on** Select new compiler version**
-[Remix Solidity Version](url://here)
+[Remix Solidity Version](./remix_solidity_version.png)
 
 Select the following version **(0.4.17+commit.bdeb9e52)**
-[Remix Solidity Version Selection](url://here)
+[Remix Solidity Version Selection](./remix_solidity_version_selection.png)
 
 Before compiling the program, make sure the correct compiler version is selected!
 

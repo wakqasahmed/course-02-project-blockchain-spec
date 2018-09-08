@@ -26,5 +26,7 @@ More details can be found here:
 This project uses the following technologies:
 - **Solidity v0.4.17**
 
+# [Course Completion Certificate](https://www.coursera.org/account/accomplishments/certificate/TPTPEURBWZH6)
+
 # License
 This project is a public domain work, dedicated using CC0 1.0. Feel free to do whatever you want with it. (If you are a coursera student, learn but not cheat :P)

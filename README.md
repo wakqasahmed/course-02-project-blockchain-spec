@@ -12,7 +12,7 @@ More details can be found here:
 
 ## Pre-requisites
 - Remix IDE
-  * [over Web Browser](http://remix.ethereum.org/)
+  * [Web Browser](http://remix.ethereum.org/)
   * [Desktop Application (Electron)](https://github.com/horizon-games/remix-app/releases)
 - Passion for Next level of World Wide Web and its bright future ;)
 
